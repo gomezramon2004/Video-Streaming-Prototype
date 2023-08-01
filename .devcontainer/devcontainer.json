@@ -1,0 +1,15 @@
+{
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vadimcn.vscode-lldb",
+				"ms-vscode.cpptools",
+				"analytic-signal.preview-pdf",
+				"GitHub.copilot",
+				"MS-vsliveshare.vsliveshare",
+				"hediet.vscode-drawio",
+				"bierner.markdown-mermaid"
+			]
+		}
+	}
+}

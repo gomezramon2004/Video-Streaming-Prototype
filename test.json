@@ -1,0 +1,234 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Movie 1",
+      "duration": 120,
+      "genre": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Movie 2",
+      "duration": 90,
+      "genre": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Movie 3",
+      "duration": 105,
+      "genre": "Thriller"
+    },
+    {
+      "id": 4,
+      "name": "Movie 4",
+      "duration": 110,
+      "genre": "Adventure"
+    },
+    {
+      "id": 5,
+      "name": "Movie 5",
+      "duration": 95,
+      "genre": "Romance"
+    },
+    {
+      "id": 6,
+      "name": "Movie 6",
+      "duration": 100,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 7,
+      "name": "Movie 7",
+      "duration": 115,
+      "genre": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Movie 8",
+      "duration": 80,
+      "genre": "Comedy"
+    }
+  ],
+  "series": [
+    {
+      "id": 1,
+      "name": "Series 1",
+      "duration": 30,
+      "genre": "Drama",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Series 2",
+      "duration": 45,
+      "genre": "Mystery",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Series 3",
+      "duration": 40,
+      "genre": "Comedy",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        },
+        {
+          "name": "Episode 4",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Series 4",
+      "duration": 50,
+      "genre": "Action",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        },
+        {
+          "name": "Episode 4",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Series 5",
+      "duration": 35,
+      "genre": "Fantasy",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        },
+        {
+          "name": "Episode 4",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Series 6",
+      "duration": 55,
+      "genre": "Sci-Fi",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        },
+        {
+          "name": "Episode 4",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Series 7",
+      "duration": 30,
+      "genre": "Drama",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        },
+        {
+          "name": "Episode 4",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Series 8",
+      "duration": 45,
+      "genre": "Mystery",
+      "episodes": [
+        {
+          "name": "Episode 1",
+          "season": 1
+        },
+        {
+          "name": "Episode 2",
+          "season": 1
+        },
+        {
+          "name": "Episode 3",
+          "season": 2
+        },
+        {
+          "name": "Episode 4",
+          "season": 2
+        }
+      ]
+    }
+  ]
+}
